@@ -1,0 +1,29 @@
+streamlit
+
+# RAG core
+langchain
+faiss-cpu
+rank_bm25
+
+# LLM + tokens
+openai
+tiktoken
+
+# Embeddings
+sentence-transformers==2.6.1
+transformers==4.41.2
+torch
+torchvision
+tqdm
+
+# Ingestion
+pymupdf
+beautifulsoup4
+requests
+
+# API (optional)
+fastapi
+uvicorn
+
+# Graph
+networkx
