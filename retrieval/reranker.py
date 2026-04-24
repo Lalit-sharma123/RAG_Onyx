@@ -1,5 +1,3 @@
-###########correct
-
 def simple_rerank(query, docs):
     print("\n🧠 [RERANK] Running...")
 
